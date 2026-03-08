@@ -1,1 +1,1 @@
-# -HTML-quick-styler-
+# HTML-quick-styler
